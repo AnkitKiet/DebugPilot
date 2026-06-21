@@ -1,1 +1,6 @@
 .env
+bisect-test-api/__pycache__
+git-bisect-fix/__pycache__
+git-bisect-fix/.venv
+git-bisect-fix/.pytest_cache
+git-bisect-fix/.env
