@@ -4,3 +4,6 @@ git-bisect-fix/__pycache__
 git-bisect-fix/.venv
 git-bisect-fix/.pytest_cache
 git-bisect-fix/.env
+.DS_STORE
+bisect-test-api/.DS_Store
+git-bisect-fix/.DS_Store
